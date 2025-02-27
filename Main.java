@@ -10,14 +10,7 @@ import org.hibernate.cfg.Configuration;
 public class Main {
     public static void main(String[] args) {
 
-        /*Alien a1 = new Alien();
-        a1.setAid(1);
-        a1.setAname("Alien");
-        a1.setTech("Java");
-        a1.setAid(2);
-        a1.setAname("narasimha");
-        a1.setTech("gen ai");
-*/
+      
         Student s1 = new Student();
         s1.id = 1;
         s1.firstName = "chris";
